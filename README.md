@@ -1,6 +1,6 @@
 # B-TREE
 
-- Bài tập về nhà mình để trong thư mục BTVN, các bạn nộp file nào cũng được, **Thời hạn đến 19:00 06/10/2022**
+- Bài tập về nhà mình để trong thư mục BTVN, các bạn nộp file nào cũng được, _**Thời hạn đến 19:00 06/10/2022**_
 - Nộp BTVN tại: https://forms.gle/YEW9kVqEpdhfoWZG7
 
 Thành viên nhóm 4:
